@@ -15,3 +15,6 @@ function ssh_pi() {
         fi
         ssh pi@$pi_ip
 }
+
+ssh_pi
+
