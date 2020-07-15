@@ -9,3 +9,6 @@ WSLからRaspberry PiにSSHするシェルスクリプト
 
 # 必須
 Bonjour
+
+# 別のhostnameに対応するには?
+変数hostnameの"raspberrypi"を書き換えると大丈夫なはず
