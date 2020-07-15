@@ -9,6 +9,7 @@ WSLからRaspberry PiにSSHするシェルスクリプト
 
 # 必須
 Bonjour
+事前に必ず「$ chmod +x ssh_raspi.bash」を実行すること
 
 # 別のhostnameに対応するには?
 変数hostnameの"raspberrypi"を書き換えると大丈夫なはず
