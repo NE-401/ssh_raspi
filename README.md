@@ -13,3 +13,6 @@ Bonjour
 
 # 別のhostnameに対応するには?
 変数hostnameの"raspberrypi"を書き換えると大丈夫なはず
+
+# 参考にさせていただいたサイト
+https://qiita.com/terappy/items/3b671750127cd3016dc7
